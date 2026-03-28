@@ -1,6 +1,7 @@
 const MODULES = {
   sg: "https://github.com/ofkm/sg",
   code: "https://github.com/ofkm/code",
+  filewatch: "https://github.com/ofkm/go-filewatch",
 };
 
 export default {

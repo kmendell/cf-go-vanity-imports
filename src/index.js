@@ -2,6 +2,7 @@ const MODULES = {
   sg: 'https://github.com/ofkm/sg',
   code: 'https://github.com/ofkm/code',
   gaze: 'https://github.com/ofkm/go-gaze',
+  shimbad: 'https://github.com/ofkm/shimbad',
 };
 
 export default {

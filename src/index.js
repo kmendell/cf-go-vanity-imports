@@ -3,6 +3,7 @@ const MODULES = {
   code: 'https://github.com/ofkm/code',
   gaze: 'https://github.com/ofkm/go-gaze',
   shimbad: 'https://github.com/ofkm/shimbad',
+  kit: 'https://github.com/ofkm/go-kit',
 };
 
 export default {

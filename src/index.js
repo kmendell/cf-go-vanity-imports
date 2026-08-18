@@ -4,6 +4,7 @@ const MODULES = {
   gaze: 'https://github.com/ofkm/go-gaze',
   shimbad: 'https://github.com/ofkm/shimbad',
   kit: 'https://github.com/ofkm/go-kit',
+  ssh3: 'https://forgejo.ofkm.us/ofkm/ssh3',
 };
 
 export default {

@@ -5,6 +5,7 @@ const MODULES = {
   shimbad: 'https://github.com/ofkm/shimbad',
   kit: 'https://github.com/ofkm/go-kit',
   ssh3: 'https://forgejo.ofkm.us/ofkm/ssh3',
+  letterbox: 'https://scm.nullnetwork.cc/erestodo/letterbox',
 };
 
 export default {
